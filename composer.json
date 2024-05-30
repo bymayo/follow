@@ -2,7 +2,7 @@
     "name": "bymayo/follow",
     "description": "Let users follow other users and elements (Categories, Tags etc) to generate lists & feeds.",
     "type": "craft-plugin",
-    "version": "2.0.0",
+    "version": "5.0.0",
     "keywords": [
         "craft",
         "cms",
@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "craftcms/cms": "^4.0.0"
+        "craftcms/cms": "^5.0.0"
     },
     "autoload": {
         "psr-4": {
@@ -34,7 +34,7 @@
         "handle": "follow",
         "hasCpSettings": false,
         "hasCpSection": false,
-        "changelogUrl": "https://raw.githubusercontent.com/bymayo/craft-follow/craft-4/CHANGELOG.md",
+        "changelogUrl": "https://raw.githubusercontent.com/bymayo/craft-follow/craft-5/CHANGELOG.md",
         "components": {
             "followService": "bymayo\\follow\\services\\FollowService"
         },
