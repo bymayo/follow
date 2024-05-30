@@ -10,6 +10,8 @@ use craft\base\Component;
 use craft\services\Elements;
 use craft\db\Query;
 
+use Exception;
+
 class ElementService extends Component
 {
 
