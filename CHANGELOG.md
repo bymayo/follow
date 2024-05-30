@@ -1,5 +1,9 @@
 # Follow Changelog
 
+## 5.0.1 - 2024-05-30
+### Changed
+- Icon to a new shiny (literally) icon
+
 ## 5.0.0 - 2024-05-30
 ### Changed
 - Craft 5 compatibility

@@ -2,7 +2,7 @@
     "name": "bymayo/follow",
     "description": "Let users follow other users and elements (Categories, Tags etc) to generate lists & feeds.",
     "type": "craft-plugin",
-    "version": "5.0.0",
+    "version": "5.0.1",
     "keywords": [
         "craft",
         "cms",
