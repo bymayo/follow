@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/bymayo/craft-follow/craft-4/resources/icon.png" width="70">
+<img src="https://raw.githubusercontent.com/bymayo/craft-follow/craft-5/resources/icon.png" width="70">
 
-# Follow Plugin for Craft CMS 4
+# Follow Plugin for Craft CMS 5
 
 Follow is a Craft CMS plugin that lets users follow elements within Craft. E.g. Users can follow other users, and create a 'Following List', or follow categories to then generate a bespoke entries feed.
 
